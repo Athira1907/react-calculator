@@ -1,0 +1,9 @@
+Algorithm
+------------
+
+step 1 :- create and style a scientific calculator as front-end.
+step 2 :- define 4 operators --- +,-,*,/
+step 3 :- define math fun.
+step 4 :- In order to make it scientific calculator we will implement advance calculation aslo.
+step 5 :- Display both input and output, on the screen of the calculator.
+
